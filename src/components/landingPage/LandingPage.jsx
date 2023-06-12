@@ -9,7 +9,7 @@ export default function index() {
                             <h2> We help brands to measure and monitor experience analytics</h2>
                         </div>
                         <div className="flex justify-center items-center mt-16">
-                            <button className="focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-800 hover:opacity-90 w-48 h-12 text-lg text-white bg-gradient-to-l from-indigo-600 to-indigo-700 rounded">Sign Up </button>
+                            <button className="focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-800 hover:opacity-90 w-48 h-12 text-lg text-white bg-gradient-to-l from-indigo-600 to-indigo-700 rounded">Sign Up for Free </button>
                         </div>
                     </div>
                 </section>
