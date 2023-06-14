@@ -11,7 +11,7 @@ const LandingPage = () => {
               <div className="md:text-5xl text-4xl font-black text-center text-gray-800 dark:text-white leading-snug lg:w-3/4">
                 <h2>
                   {" "}
-                  We help brands to measure and monitor experience analytic
+                  We help brands to measure and monitor experience analytics
                 </h2>
               </div>
               <div className="flex justify-center items-center mt-16">
