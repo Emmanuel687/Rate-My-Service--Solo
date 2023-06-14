@@ -168,12 +168,15 @@ const SignUpForm = () => {
               </div>
             </div>
             <div className="mt-8">
+              
               <button
                 role="button"
                 className="focus:ring-2 focus:ring-offset-2 focus:ring-indigo-700 text-sm font-semibold leading-none text-white focus:outline-none bg-indigo-700 border rounded hover:bg-indigo-600 py-4 w-full"
               >
                 Sign Up
               </button>
+              
+            
             </div>
           </div>
           <div className="xl:w-1/3 md:w-1/2 lg:ml-16 ml-8 md:mt-0 mt-6">
