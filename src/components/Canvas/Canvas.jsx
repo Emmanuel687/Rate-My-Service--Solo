@@ -1,5 +1,8 @@
+import Footer from "../navigation/Footer";
+
 function Canvas() {
     return (
+        <>
         <div className="flex flex-no-wrap">
             {/* Sidebar starts */}
             {/* Remove class [ hidden ] and replace [ sm:flex ] with [ flex ] */}
@@ -158,6 +161,8 @@ function Canvas() {
                 <div className="w-full h-full rounded border-dashed border-2 border-gray-300">{/* Place your content here */}</div>
             </div>
         </div>
+        <Footer />
+     </>
     );
 }
 
