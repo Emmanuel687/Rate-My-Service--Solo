@@ -14,7 +14,7 @@ function LoginForm() {
               tabIndex={0}
               className="focus:outline-none text-2xl font-extrabold leading-6 text-gray-800"
             >
-              Login to your account .
+              Login to your account.
             </p>
             <p
               tabIndex={0}
@@ -27,7 +27,7 @@ function LoginForm() {
                 className="hover:text-gray-500 focus:text-gray-500 focus:outline-none focus:underline hover:underline text-sm font-medium leading-none text-gray-800 cursor-pointer"
               >
                 {" "}
-                Sign up here
+                Sign up here.
               </a>
               </Link>
             </p>
