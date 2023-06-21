@@ -14,7 +14,7 @@ function LoginForm() {
               tabIndex={0}
               className="focus:outline-none text-2xl font-extrabold leading-6 text-gray-800"
             >
-              Login to your account
+              Login to your account .
             </p>
             <p
               tabIndex={0}
